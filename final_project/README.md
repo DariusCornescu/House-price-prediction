@@ -136,8 +136,7 @@ final_project/
 │       └── utils/        # Validators
 ├── ml_models/
 │   └── complete_pipeline.joblib
-├── screenshots/       # Place your app screenshots here
-└── README.md
+└── README.md          # (app screenshots live in ../screenshots/)
 ```
 
 ---
@@ -146,10 +145,10 @@ final_project/
 
 | Layer | Technology |
 |-------|------------|
-| **Backend** | Python | FastAPI | uvicorn |
-| **Frontend** | React | Vite | Bootstrap |
-| **ML** | scikit-learn | XGBoost | joblib |
-| **Data** | pandas | Pydantic |
+| **Backend** | Python, FastAPI, uvicorn |
+| **Frontend** | React, Vite, Bootstrap |
+| **ML** | scikit-learn, XGBoost, joblib |
+| **Data** | pandas, Pydantic |
 
 ---
 
